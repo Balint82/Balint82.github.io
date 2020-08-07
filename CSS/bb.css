@@ -1,0 +1,90 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Oxygen&display=swap");
+
+html {background-color: rgb(255,208,0);}
+
+.main1 {padding-right: 220px;}
+
+.navbar {font-family: 'Oxygen', sans-serif;
+    background-color: burlywood;
+}
+
+
+
+.form-inline {
+    box-shadow: 11px, 11px, 11px, black;
+}
+
+.container {font-family: 'Oxygen', sans-serif;
+    text-align: center;
+    background-color: whitesmoke;
+    box-shadow: 11px 11px 11px 11px goldenrod;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.test {background-color: rgb(255,208,0);
+}
+
+img {margin-top: 70px;
+    margin-bottom: 150px;
+    width: 150px;
+    margin-left: 15px;
+    box-shadow: 2px 1px 1px 1px #28A745;}
+
+.chart {padding: 30px;}
+
+h3 {padding-top: 40px;}
+
+p {text-align: justify;
+    padding-top: 40px;
+    padding-right: 15px;
+   
+    }
+
+.menudoboz {border-top: outset 1px #28A745;
+            text-align: left;}
+
+.koret {text-align: center;
+        padding: 15px;
+        margin-left: 460px;
+        margin-top: 30px;
+        border: solid 1px #28A745
+        }
+
+.potato {text-align: left;
+        }
+
+h4 {border-top: solid 1px #28A745}
+
+.a {background-color: rgba(40, 167, 69, 0.7);}
+
+
+.b {background-color: rgba(40, 167, 69, 0.4);}
+
+.btn-group {margin-top: 17px;
+    margin-left: 750px;}
+
+#purple { margin-top: 0px;
+    margin-left: 750px;}
+
+.table {text-align: left;
+        
+}
+
+#Hamburger_mennyiség {text-align: center;
+}
+
+thead{text-align: center;}
+th {text-align: center;}
+
+
+#sauce {text-align: center;}
+
+#quantity {text-align: center;}
+
+#widget {
+        background-color: whitesmoke;
+        }
+
+ul {text-align: left;}
